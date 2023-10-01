@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is cole and im interested in programming specifically, technology and webssites.
+My name is cole and im interested in programming specifically, technology and websites.
 Currently im working on a project [Redacted] and hope the be able to provide an way for other people to make simple internet archives.
 
 
